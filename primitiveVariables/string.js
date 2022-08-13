@@ -7,7 +7,7 @@ console.log(str1+" "+str2)
 console.log(str3)
 
 //get the length of a string
-console.log(str3.length())
+console.log(str3.length)
 
 //take a substring or a character
 console.log(str1[0]+str2.substring(5,7))
