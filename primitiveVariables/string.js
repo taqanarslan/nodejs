@@ -1,10 +1,13 @@
 var str1 = "test"
 var str2 = "it please"
 
-//add Strings
+//add strings
 var str3 = `${str1} ${str2}`
 console.log(str1+" "+str2)
 console.log(str3)
+
+//get the length of a string
+console.log(str3.length())
 
 //take a substring or a character
 console.log(str1[0]+str2.substring(5,7))
